@@ -18,3 +18,7 @@ Most of the roles have some counterpart in the original lupus in tabula (with ex
 
 ## ADVANCED RULES
 
+
+# CURRENT META
+As the game is at its first iteration, only HUMAN, CHAOS BREEDER and OBSERVER cards are released for a game of 9 players (the a4print in the folder), eventually, for additional roles(for one side of the other of the game), one can write a description on the bottom part of the card(to integrate the accelerationist, for example, one can write the role under the HUMAN card, same thing for the other roles to the side of the CHAOS BREEDERS).
+Additional rules and new prints will be added to the repository when I have the time to do them :,)
